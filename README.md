@@ -1,5 +1,6 @@
 
 # Horiseon Social Solution Services 
+## -->[Link to the Deployed page](https://thvt1guy.github.io/horiseon-landing-page/)<--
 
 ![image](https://user-images.githubusercontent.com/117417092/208498888-2b46af80-12b6-4bcf-bba6-14c8e812f8e3.png)
 
